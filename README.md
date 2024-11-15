@@ -37,4 +37,5 @@ The sensor readings are compared against these threshold values to detect high l
 
 
    
-![Uploading circuit_image (2).png…]()
+
+![circuit_image (2)](https://github.com/user-attachments/assets/60c7c9d0-b5d0-428e-a25d-cf019c1eae41)
