@@ -34,3 +34,7 @@ The sensor readings are compared against these threshold values to detect high l
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/IoT-Gas-Detection-System.git
+
+
+   
+![Uploading circuit_image (2).png…]()
